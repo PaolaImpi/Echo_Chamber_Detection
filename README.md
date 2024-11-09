@@ -1,7 +1,5 @@
 # Comparing Echo Chamber Detection Metrics: A Cross-modeling and Cross-platform Analysis of Twitter and Reddit
 
-The project concerns the development of a pipeline for controversy reduction on Social Media. Part of the datasets used can be found at [Garimella Dataset](https://github.com/gvrkiran/controversy-detection/tree/master/networks/retweet_networks), Vaccination dataset can be found at [Kaggle Dataset](https://www.kaggle.com/keplaxo/twitter-vaccination-dataset), only Covid-19 dataset isn't freely accessible; in case of necessity, it will be share under request.
-
 This project provides a comprehensive comparative analysis of the primary echo chamber detection metrics proposed in the literature. These metrics include network analysis, content analysis, and hybrid approaches. The focus is on their application in a cross-platform context involving Twitter (now renamed X) and Reddit. Through this analysis, the project uncovers the distinct dynamics of echo chambers across these platforms, evaluates the strengths and limitations of the various metrics, and assesses their applicability across different social graph modeling approaches and domains.
 
 
